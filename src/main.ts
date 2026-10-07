@@ -9,6 +9,7 @@ console.log("🎮 CMPM 121 - This is a collaberation");
 let counter: number = 0;
 
 // Create basic HTML structure
+// Coauthoring :)
 document.body.innerHTML = `
   <h1>CMPM 121 Project</h1>
   <p>Counter: <span id="counter">0</span></p>
