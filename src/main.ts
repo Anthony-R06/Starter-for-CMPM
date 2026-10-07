@@ -3,7 +3,7 @@
  * Simple starter template - customize to your heart's content!
  */
 
-console.log("🎮 CMPM 121 - Starting...");
+console.log("🎮 CMPM 121 - This is a collaberation");
 
 // Simple counter for demonstration
 let counter: number = 0;
